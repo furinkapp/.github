@@ -11,6 +11,6 @@ Our aim is to create a modern alternative to existing platforms like FurAffinity
 
 ## Contributions
 
-Contributions are very much welcome! To contribute, look at our contribution guidelines, then open a feature request, or bug report in the [issues section](https://github.com/furinkapp/furink/issues) of the central repository.
+Contributions are very much welcome! To contribute, look at our contribution guidelines, then open a feature request, or bug report in the [issues repository](https://github.com/furinkapp/issues/issues). You will find more information on contributing there.
 
 The backend is currently closed source and not accepting contributions, but we are actively working on a public API to allow automation of information, as well as webhook support to enable users to create custom feeds for commission information. 
