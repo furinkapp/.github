@@ -1,6 +1,6 @@
 ## Welcome to fur.ink! 👋
 
-We are a small team of 5 developers developing [fur.ink](https://fur.ink), an artist commissioning and payments platform.
+We are a small team of 6 developers developing [fur.ink](https://fur.ink), an artist commissioning and payments platform.
 
 Our aim is to create a modern alternative to existing platforms like FurAffinity or Twitter, allowing artists to post commission information to their audience, and users to find artists with styles that suit their wants and price range. We embrace the open-source world, and our frontend applications, including the website and mobile app, are all open-source under a dual MIT or Apache 2.0 license.
 
